@@ -19,20 +19,6 @@ header {
 }
 
 /* Loader */
-.centrado {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: black;
-  z-index: 999;
-  position: relative;
-}
-
-.hidden {
-  overflow: hidden;
-}
-
 #preloader {
   -ms-flex-align: center;
   align-items: center;
